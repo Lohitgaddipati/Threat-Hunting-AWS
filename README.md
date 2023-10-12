@@ -36,8 +36,8 @@ Discussed Enumeration (gathering of information about resources done by the bad 
 ## AWS CloudTrail Lake
 
 Used SQL Queries to analyze logs. Also, discussed about
-> AMI Exfiltration
-> AWS Access Key Leakage
+  1. AMI Exfiltration
+  2. AWS Access Key Leakage
 
 
 For more: refer to "Introduction to AWS Threat Hunting" course in LinkedIn Learning by Day Johnson.
